@@ -1,2 +1,2 @@
 # SQL con mi promer GIT/GITHUB
-My First DB en GitHub
+My First DB en GitBush
